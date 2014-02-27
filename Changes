@@ -1,3 +1,6 @@
+0.27.01 2014-02-26
+        Remove Elasticsearch and Elasticsearch::Compat from prereqs.
+
 0.27    2013-10-24
         Elastic::Model now requires Elasticsearch::Compat instead of
         ElasticSearch.
